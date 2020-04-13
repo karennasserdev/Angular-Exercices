@@ -1,0 +1,10 @@
+Depois de criado o app, criar os componentes necessários:
+
+. add transaction
+. balance
+. header
+. income expenses
+. transaction
+. transactions list
+
+Apos criados, ir em app.components.ts e remover o template que vem como padrão do angular.

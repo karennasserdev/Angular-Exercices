@@ -1,0 +1,6 @@
+Coloquei todos os components dentro de uma pasta component e alterei os diretórios em app.module.ts (import { ArticleComponent },
+import { NavbarComponent },
+import { ArticleFormComponent } ,
+import { ArticleListComponent } ,
+import { PointsComponent }) e article.component.ts (import { Article } ).
+
